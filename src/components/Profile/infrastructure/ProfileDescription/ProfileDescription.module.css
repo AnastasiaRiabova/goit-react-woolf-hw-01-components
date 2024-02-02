@@ -1,0 +1,31 @@
+
+.description {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.avatar {
+    border: 1px solid grey;
+    border-radius: 50%;
+    width: 30%;
+}
+
+.name {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.tag {
+    text-align: center;
+    color: grey;
+    margin-top: 14px;
+}
+
+.location {
+    text-align: center;
+    color: grey;
+    margin-top: 14px;
+}

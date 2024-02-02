@@ -1,0 +1,32 @@
+.item {
+    display: flex;
+    align-items: center;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #fafa7a;
+}
+
+.item:not(:last-child) {
+    margin-bottom: 8px;
+}
+
+.bullet {
+    border-radius: 50%;
+    background-color: green;
+    width: 12px;
+    height: 12px;
+}
+
+.bulletOffline {
+    background-color: red;
+}
+
+.avatar {
+    margin: 0 10px;
+}
+
+.name {
+    margin: 0 10px;
+}
+
