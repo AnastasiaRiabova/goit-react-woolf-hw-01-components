@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-woolf-hw-01-components/static/css/main.4961e358.css",
+    "main.js": "/goit-react-woolf-hw-01-components/static/js/main.61dd5b60.js",
+    "index.html": "/goit-react-woolf-hw-01-components/index.html",
+    "main.4961e358.css.map": "/goit-react-woolf-hw-01-components/static/css/main.4961e358.css.map",
+    "main.61dd5b60.js.map": "/goit-react-woolf-hw-01-components/static/js/main.61dd5b60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4961e358.css",
+    "static/js/main.61dd5b60.js"
+  ]
+}
